@@ -9,7 +9,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div className='bg-[#0C3B2E] text-white text-center h-16 flex justify-between items-center px-5 md:px-20'>
-        <img src="src/assets/image.png" className='max-h-8 cursor-pointer hover:scale-105 transition-all' alt="" />
+        <img src="https://raw.githubusercontent.com/sj0110/TaskQ-Todo-App---React/refs/heads/main/src/assets/image.png" className='max-h-8 cursor-pointer hover:scale-105 transition-all' alt="" />
         <p className='italic font-medium transition-all hover:not-italic text-sm md:text-xl'>Keeping track of your tasks!</p>
     </div>
   )
