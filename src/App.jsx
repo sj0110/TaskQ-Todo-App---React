@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import { MdEditSquare } from "react-icons/md";
 import { AiFillDelete } from "react-icons/ai";
 import { FaSave } from "react-icons/fa";
